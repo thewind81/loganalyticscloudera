@@ -237,15 +237,11 @@
     <copyField source="client_ip" dest="record"/>
     <copyField source="code" dest="record"/>
     <copyField source="user_agent" dest="record"/>
-    <copyField source="url" dest="record"/>
     <copyField source="protocol" dest="record"/>
     <copyField source="referer" dest="record"/>
     <copyField source="request" dest="record"/>
     <copyField source="bytes" dest="record"/>
     <copyField source="method" dest="record"/>
-    <copyField source="extension" dest="record"/>
-    <copyField source="app" dest="record"/>
-    <copyField source="subapp" dest="record"/>
     <copyField source="device_family" dest="record"/>
     <copyField source="user_agent_major" dest="record"/>
     <copyField source="user_agent_family" dest="record"/>
