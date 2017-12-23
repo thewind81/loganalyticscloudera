@@ -1,0 +1,8 @@
+Java Heap Size of Agent in Bytes
+1 GiB
+
+Configuration File
+file:flume.conf
+
+Morphlines File
+file:morphlines.conf

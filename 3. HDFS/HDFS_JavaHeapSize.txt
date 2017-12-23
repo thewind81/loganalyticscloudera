@@ -1,0 +1,11 @@
+Java Heap Size of Balancer in Bytes
+1 GiB
+
+Java Heap Size of DataNode in Bytes
+1 GiB
+
+Java Heap Size of NameNode in Bytes
+4 GiB
+
+Java Heap Size of Secondary NameNode in Bytes
+4 GiB
